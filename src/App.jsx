@@ -10,7 +10,7 @@ function App() {
     <div className="flex flex-col min-h-screen bg-gray-900 items-center justify-center">
       <div className="p-10 max-h-lg max-w-lg bg-gray-800 font-bold text-white rounded-lg flex flex-col items-center">
         <div className="w-24 h-24 flex items-center justify-center bg-red-500 rounded-full">
-          <img src="/public/Profile-picture.JPG" alt="Profile Picture" className="w-full h-full object-cover rounded-full" />
+          <img src="Profile-picture.JPG" alt="Profile Picture" className="w-full h-full object-cover rounded-full" />
         </div>
         <h1 className="mt-5 text-center font-bold text-white text-3xl">Ramadhika Darmaputra</h1>
         <h3 className="mt-1 text-center text-cyan-300 text-sm">Jakarta, Indonesia</h3>
